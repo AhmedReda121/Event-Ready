@@ -1,0 +1,34 @@
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.csproj.AssemblyReference.cache
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.AssemblyInfoInputs.cache
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.AssemblyInfo.cs
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.csproj.CoreCompileInputs.cache
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.MvcApplicationPartsAssemblyInfo.cs
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.MvcApplicationPartsAssemblyInfo.cache
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\appsettings.Development.json
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\appsettings.json
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\EVENT READY.staticwebassets.endpoints.json
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\EVENT READY.exe
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\EVENT READY.deps.json
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\EVENT READY.runtimeconfig.json
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\EVENT READY.dll
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\EVENT READY.pdb
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\vs code\learn\EVENT READY\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\scopedcss\bundle\EVENT READY.styles.css
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets.build.json
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets.development.json
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets\msbuild.EVENT READY.Microsoft.AspNetCore.StaticWebAssets.props
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets\msbuild.EVENT READY.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets\msbuild.build.EVENT READY.props
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.EVENT READY.props
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.EVENT READY.props
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets.pack.json
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT RE.F87353E3.Up2Date
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.dll
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\refint\EVENT READY.dll
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.pdb
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\EVENT READY.genruntimeconfig.cache
+D:\vs code\learn\EVENT READY\obj\Debug\net9.0\ref\EVENT READY.dll

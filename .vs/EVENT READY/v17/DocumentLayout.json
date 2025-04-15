@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs code\\learn\\EVENT READY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\recommendationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:recommendationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\eventmanagerfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:eventmanagerfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\conversationsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:conversationsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|d:\\vs code\\learn\\event ready\\.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F4DECF-E1C4-4B2E-82BD-7AE9408125F8}|EVENT READY.csproj|solutionrelative:.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\Feedback.cs",
+              "RelativeDocumentMoniker": "Feedback.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\Feedback.cs*",
+              "RelativeToolTip": "Feedback.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:32:52.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\Notification.cs",
+              "RelativeDocumentMoniker": "Notification.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\Notification.cs*",
+              "RelativeToolTip": "Notification.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:33:50.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\Group.cs*",
+              "RelativeToolTip": "Group.cs*",
+              "ViewState": "AgIAAAQAAABAMjMzMzPzvwMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:33:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:28:02.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\Recommendation.cs",
+              "RelativeDocumentMoniker": "Recommendation.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\Recommendation.cs*",
+              "RelativeToolTip": "Recommendation.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:34:05.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecommendationFactory.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\RecommendationFactory.cs",
+              "RelativeDocumentMoniker": "RecommendationFactory.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\RecommendationFactory.cs*",
+              "RelativeToolTip": "RecommendationFactory.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:35:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\User.cs*",
+              "RelativeToolTip": "User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:31:33.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventManagerFacade.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\EventManagerFacade.cs",
+              "RelativeDocumentMoniker": "EventManagerFacade.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\EventManagerFacade.cs*",
+              "RelativeToolTip": "EventManagerFacade.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:35:06.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\Event.cs*",
+              "RelativeToolTip": "Event.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:32:28.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConversationSimulator.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\ConversationSimulator.cs",
+              "RelativeDocumentMoniker": "ConversationSimulator.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\ConversationSimulator.cs*",
+              "RelativeToolTip": "ConversationSimulator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:34:24.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\Calendar.cs",
+              "RelativeDocumentMoniker": "Calendar.cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\Calendar.cs*",
+              "RelativeToolTip": "Calendar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:33:26.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": ".cs",
+              "DocumentMoniker": "D:\\vs code\\learn\\EVENT READY\\.cs",
+              "RelativeDocumentMoniker": ".cs",
+              "ToolTip": "D:\\vs code\\learn\\EVENT READY\\.cs",
+              "RelativeToolTip": ".cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T18:28:33.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

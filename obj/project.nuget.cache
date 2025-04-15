@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "574AcY1z1i4=",
+  "success": true,
+  "projectFilePath": "D:\\vs code\\learn\\EVENT READY\\EVENT READY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
