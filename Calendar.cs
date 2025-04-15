@@ -1,4 +1,3 @@
-﻿// File: Models/Calendar.cs
 using System.Collections.Generic;
 
 namespace EVENT_READY
@@ -20,7 +19,8 @@ namespace EVENT_READY
 
         public void SetReminder(Event ev, string notificationTime)
         {
-            Notification notification = new Notification(ev, $"تنبيه: {ev.Name} سيبدأ قريباً!", notificationTime);
+            // Create and send notification
+            Notification notification = new Notification(ev, $"Reminder: {ev.Name} starts soon!", notificationTime);
             notification.SendNotification();
         }
     }
