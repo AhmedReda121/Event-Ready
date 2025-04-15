@@ -1,4 +1,3 @@
-﻿// File: Models/Recommendation.cs
 namespace EVENT_READY
 {
     public class Recommendation
@@ -12,17 +11,18 @@ namespace EVENT_READY
             Event = ev;
         }
 
+        // Suggest suitable outfit for the event
         public string SuggestOutfit()
         {
-            // منطق اقتراح اللبس
-            string suggestion = "بدلة كلاسيكية";
+            string suggestion = "Classic suit";
             Event.OutfitSuggestions.Add(suggestion);
             return suggestion;
         }
 
+        // Suggest a conversation topic based on user preferences
         public string SuggestConversationTopics()
         {
-            string suggestion = (User.PreferredTopics.Count > 0) ? User.PreferredTopics[0] : "مواضيع عامة";
+            string suggestion = (User.PreferredTopics.Count > 0) ? User.PreferredTopics[0] : "General topics";
             Event.ConversationTopics.Add(suggestion);
             return suggestion;
         }
