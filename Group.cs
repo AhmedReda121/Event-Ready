@@ -1,4 +1,3 @@
-﻿// File: Models/Group.cs
 using System.Collections.Generic;
 
 namespace EVENT_READY
