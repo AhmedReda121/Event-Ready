@@ -6,7 +6,7 @@ namespace EVENT_READY
     {
         public int EventId { get; set; }
         public string Name { get; set; }
-        public string Date { get; set; } // Consider using DateTime for dates
+        public string Date { get; set; } 
         public string Location { get; set; }
         public List<User> Attendees { get; set; } = new List<User>();
         public List<string> OutfitSuggestions { get; set; } = new List<string>();
