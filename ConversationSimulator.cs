@@ -1,4 +1,3 @@
-﻿// File: Models/ConversationSimulator.cs
 using System.Collections.Generic;
 
 namespace EVENT_READY
@@ -10,14 +9,14 @@ namespace EVENT_READY
         public string SimulateConversation(User user, List<string> topics)
         {
             string topicsJoined = string.Join(", ", topics);
-            string result = $"تمت محاكاة محادثة مع {user.Name} حول {topicsJoined}";
+            string result = $"Simulated conversation with {user.Name} about {topicsJoined}";
             SimulatedConversations.Add(result);
             return result;
         }
 
         public string ProvideFeedback(string simulationResult)
         {
-            return "ننصح بتحسين مهارات الاستماع وتسجيل الملاحظات.";
+            return "Improve active listening and note-taking skills.";
         }
     }
 }
