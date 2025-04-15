@@ -1,4 +1,3 @@
-﻿// File: Models/User.cs
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
 using System.Globalization;
@@ -18,7 +17,7 @@ namespace EVENT_READY
 
         public void Register()
         {
-            // منطق التسجيل
+            // Registration logic should be implemented here
         }
 
         public void UpdatePreferences(List<string> newTopics)
