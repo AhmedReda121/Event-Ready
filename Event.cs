@@ -1,4 +1,3 @@
-﻿// File: Models/Event.cs
 using System.Collections.Generic;
 
 namespace EVENT_READY
@@ -7,7 +6,7 @@ namespace EVENT_READY
     {
         public int EventId { get; set; }
         public string Name { get; set; }
-        public string Date { get; set; } // يمكن استخدام DateTime
+        public string Date { get; set; } // Consider using DateTime for dates
         public string Location { get; set; }
         public List<User> Attendees { get; set; } = new List<User>();
         public List<string> OutfitSuggestions { get; set; } = new List<string>();
@@ -21,6 +20,7 @@ namespace EVENT_READY
             Date = date;
             Location = location;
         }
+
         public void AddAttendee(User user)
         {
             Attendees.Add(user);
