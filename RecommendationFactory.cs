@@ -1,38 +1,33 @@
-﻿// File: Models/RecommendationFactory.cs
 using System;
 
 namespace EVENT_READY
 {
-    // الواجهة المجردة للتصنيع (Factory Method)
+    // Abstract factory for creating recommendations
     public abstract class RecommendationFactory
     {
         public abstract Recommendation CreateRecommendation(User user, Event ev);
     }
 
-    // تطبيق مصنع للتوصيات للمستخدمين الانطوائيين
+    // Factory for introverted user recommendations
     public class IntrovertRecommendationFactory : RecommendationFactory
     {
         public override Recommendation CreateRecommendation(User user, Event ev)
         {
-            // منطق مخصص للمستخدمين الانطوائيين
             Recommendation rec = new Recommendation(user, ev);
-            // على سبيل المثال: نستخدم اقتراحات هادئة وبسيطة
-            rec.SuggestOutfit(); // اقتراح اللبس
-            rec.SuggestConversationTopics(); // اقتراح الموضوع
+            rec.SuggestOutfit();              // Suggest calm/simple outfit
+            rec.SuggestConversationTopics();  // Suggest soft conversation topics
             return rec;
         }
     }
 
-    // تطبيق مصنع للتوصيات للمستخدمين الغير انطوائيين (مثلاً اجتماعيين)
+    // Factory for extroverted user recommendations
     public class ExtrovertRecommendationFactory : RecommendationFactory
     {
         public override Recommendation CreateRecommendation(User user, Event ev)
         {
-            // منطق مخصص للمستخدمين الاجتماعيين
             Recommendation rec = new Recommendation(user, ev);
-            // يمكن تخصيص اقتراحات اللبس والمواضيع لتتماشى مع النشاط والحيوية
-            rec.SuggestOutfit(); // اقتراح اللبس
-            rec.SuggestConversationTopics(); // اقتراح الموضوع
+            rec.SuggestOutfit();              // Suggest bold/energetic outfit
+            rec.SuggestConversationTopics();  // Suggest engaging conversation topics
             return rec;
         }
     }
